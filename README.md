@@ -22,6 +22,8 @@ export default function FirstPost() {
   return <h1>First Post</h1>;
 }
 </code>
+
+
 Now, make sure that the development server is running and visit http://localhost:3000/posts/first-post. You should see the page:
 
 
